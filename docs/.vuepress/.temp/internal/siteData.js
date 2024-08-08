@@ -1,1 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"zh-CN\",\"title\":\"xichen  Blog\",\"description\":\"My first VuePress Site\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/https://github.com/freeRider24XC/xichen.git/\",\"lang\":\"zh-CN\",\"title\":\"xichen  Blog\",\"description\":\"My first VuePress Site\",\"head\":[],\"locales\":{}}")
