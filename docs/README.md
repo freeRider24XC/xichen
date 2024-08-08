@@ -1,6 +1,6 @@
 ---
 home: true
-title: Home
+title: 西辰knight
 heroImage: https://vuejs.press/images/hero.png
 actions:
   - text: Get Started
@@ -11,6 +11,9 @@ actions:
     link: https://vuejs.press/guide/introduction.html
     type: secondary
 
+  - text: flutter
+    link: https://flutter.dev/
+    type: secondary
 features:
   - title: Simplicity First
     details: Minimal setup with markdown-centered project structure helps you focus on writing.
