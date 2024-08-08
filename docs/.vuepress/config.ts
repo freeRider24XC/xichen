@@ -15,5 +15,5 @@ export default defineUserConfig({
   }),
 
   bundler: viteBundler(),
-  base: "/https://github.com/freeRider24XC/xichen.git/",
+  base: "/xichen/",
 });
