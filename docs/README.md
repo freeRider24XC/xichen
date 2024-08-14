@@ -17,7 +17,7 @@ config:
           link: /blog/
           theme: brand
         - text: Github
-          link: https://github.com/pengzhanbo
+          link: https://github.com/freeRider24XC
           theme: alt
 ---
 

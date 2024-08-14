@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     logo: "https://vuejs.press/images/hero.png",
 
-    navbar: ["/", "/blog/blog.md", "/photograph", "/notes", "/get-started"],
+    navbar: ["/", "/blog/blog.md", "/photograph", "/notes"],
   }),
 
   bundler: viteBundler(),
