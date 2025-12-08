@@ -8,7 +8,10 @@
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "pnpm dlx vp-update",
+    "new:post": "node scripts/new-post.js",
+    "update:project": "node scripts/update-project.js",
+    "validate": "node scripts/validate.js"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
